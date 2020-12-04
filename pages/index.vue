@@ -12,8 +12,9 @@
                     # Introduction
                 </h2>
                 <p>
-                    Hi! My name is Marius. I go by the pseudonym ExpDev07, which by you will find my various social profiles and GitHub profile under. I'm
-                    currently 20 years of age and attending university for a general bachelor in software development.
+                    Hi! My name is Marius. I go by the pseudonym ExpDev07 (or sometimes just ExpDev), which by you will find my various
+                    social profiles and GitHub profile under. I'm currently 20 years of age and attending university for a general
+                    bachelor in software development.
                 </p>
                 <p>
                     When not attending to duties of school, my hobbies include...
