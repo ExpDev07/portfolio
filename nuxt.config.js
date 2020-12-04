@@ -34,7 +34,9 @@ export default {
         // https://go.nuxtjs.dev/eslint
         '@nuxtjs/eslint-module',
         // https://go.nuxtjs.dev/tailwindcss
-        '@nuxtjs/tailwindcss'
+        '@nuxtjs/tailwindcss',
+        // https://github.com/nuxt-community/fontawesome-module
+        '@nuxtjs/fontawesome'
     ],
 
     // Modules (https://go.nuxtjs.dev/config-modules)
@@ -43,5 +45,14 @@ export default {
 
     // Build Configuration (https://go.nuxtjs.dev/config-build)
     build: {
+    },
+
+    // Font Awesome Configuration.
+    fontawesome: {
+        icons: {
+            solid: true,
+            regular: true,
+            brands: true
+        }
     }
 }

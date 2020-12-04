@@ -1,10 +1,26 @@
 <template>
     <div>
         <!-- Header -->
-        <header>
-            <h1 class="pb-4 text-4xl font-semibold inline-block border-b-4 border-gray-200">
+        <header class="flex items-center justify-between">
+            <!-- Logo -->
+            <a class="pb-4 text-4xl font-semibold inline-block border-b-4 border-gray-200" href="/">
                 @ExpDev07
-            </h1>
+            </a>
+            <!-- Navigation -->
+            <nav>
+                <ul class="flex items-center text-3xl">
+                    <li>
+                        <a href="https://twitter.com">
+                            <font-awesome-icon class="ml-6 text-gray-700 hover:text-gray-800" :icon="['fab', 'github']" />
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://github.com/ExpDev07">
+                            <font-awesome-icon class="ml-6 text-blue-400 hover:text-blue-500" :icon="['fab', 'twitter']" />
+                        </a>
+                    </li>
+                </ul>
+            </nav>
         </header>
         <main class="my-12 prose prose-lg xl:prose-xl">
             <section>
