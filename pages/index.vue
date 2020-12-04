@@ -22,6 +22,7 @@
                 </ul>
             </nav>
         </header>
+        <!-- Main -->
         <main class="my-12 prose prose-lg xl:prose-xl">
             <section>
                 <h2>
@@ -51,6 +52,12 @@
                 </ul>
             </section>
         </main>
+        <!-- Footer -->
+        <footer>
+            <p>
+                &COPY; 2020
+            </p>
+        </footer>
     </div>
 </template>
 
