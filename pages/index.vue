@@ -86,6 +86,19 @@
                     </li>
                 </ul>
             </section>
+            <section>
+                <h2>
+                    Support me
+                </h2>
+                <p>
+                    Like my work and want to contribute financially? Consider chipping in.
+                </p>
+                <ko-fi-button
+                    username="expdev"
+                    color="#12b57c"
+                    title="Chip in a coffee"
+                />
+            </section>
         </main>
         <!-- Footer -->
         <footer>
