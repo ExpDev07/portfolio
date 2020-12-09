@@ -29,6 +29,11 @@
         </section>
         <section>
             <h2>
+                # Work experience
+            </h2>
+        </section>
+        <section>
+            <h2>
                 # Education
             </h2>
             <ul>
@@ -56,7 +61,14 @@
             </p>
             <ul>
                 <li v-for="repository in repositories" :key="repository.id">
-                    <a target="_blank" rel="noopener noreferrer" :href="repository.html_url" alt="Github Repository">{{ repository.full_name }}</a>
+                    <a
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        alt="Github Repository"
+                        :href="repository.html_url"
+                    >
+                        {{ repository.full_name }}
+                    </a>
                     &mdash;
                     <font-awesome-icon class="text-yellow-400" icon="star" /> {{ repository.stargazers_count }}
                 </li>
@@ -64,7 +76,17 @@
         </section>
         <section>
             <h2>
-                Support me
+                # Skills & expertise
+            </h2>
+        </section>
+        <section>
+            <h2>
+                # Honors & Awards
+            </h2>
+        </section>
+        <section>
+            <h2>
+                # Support me
             </h2>
             <p>
                 Like my work and want to contribute financially? Consider chipping in.
