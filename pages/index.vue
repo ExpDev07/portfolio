@@ -27,11 +27,13 @@
                 </li>
             </ul>
         </section>
+        <hr>
         <section>
             <h2>
                 # Work experience
             </h2>
         </section>
+        <hr>
         <section>
             <h2>
                 # Education
@@ -51,6 +53,7 @@
                 </li>
             </ul>
         </section>
+        <hr>
         <section>
             <h2>
                 # Projects
@@ -74,16 +77,19 @@
                 </li>
             </ul>
         </section>
+        <hr>
         <section>
             <h2>
                 # Skills & expertise
             </h2>
         </section>
+        <hr>
         <section>
             <h2>
                 # Honors & Awards
             </h2>
         </section>
+        <hr>
         <section>
             <h2>
                 # Support me
