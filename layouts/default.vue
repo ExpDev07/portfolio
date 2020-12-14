@@ -1,6 +1,6 @@
 <template>
+    <!-- Navbar -->
     <div class="bg-white text-black">
-        <!-- Header -->
         <header class="max-w-6xl mx-auto px-5 py-16 flex items-center justify-between">
             <!-- Logo -->
             <NuxtLink class="pb-4 text-4xl font-mono font-semibold inline-block border-b-4 border-gray-200 hover:border-green-400" to="/">
@@ -23,9 +23,11 @@
             </nav>
         </header>
         <!-- Content -->
-        <main class="max-w-6xl mx-auto px-5 py-12 my-12">
-            <Nuxt />
-        </main>
+        <div>
+            <main class="max-w-6xl mx-auto px-5 py-12 my-12">
+                <Nuxt />
+            </main>
+        </div>
         <!-- Footer -->
         <footer class="bg-black text-white">
             <div class="max-w-6xl mx-auto px-5 py-5">
