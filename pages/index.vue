@@ -78,7 +78,7 @@
                         {{ repository.full_name }}
                     </a>
                     &mdash;
-                    <font-awesome-icon class="text-yellow-400" icon="star" /> {{ repository.stargazers_count }}
+                    <font-awesome-icon class="text-green-400" icon="star" /> {{ repository.stargazers_count }}
                 </li>
             </ul>
         </section>
