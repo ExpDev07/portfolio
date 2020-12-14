@@ -113,7 +113,7 @@
                     </ul>
                 </li>
                 <li>
-                    <strong>JavaScript / TypeScript</strong>
+                    <strong>JavaScript / TypeScript on Node.js</strong>
                     <ul>
                         <li>ExpressJS</li>
                         <li>NestJS</li>
