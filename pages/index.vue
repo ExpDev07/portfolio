@@ -32,6 +32,11 @@
             <h2>
                 # Work experience
             </h2>
+            <ul>
+                <li>
+                    Freelancing and completing small to medium projects for multiple clients.
+                </li>
+            </ul>
         </section>
         <hr>
         <section>
@@ -40,16 +45,16 @@
             </h2>
             <ul>
                 <li>
-                    <span class="font-semibold">2007-2013:</span> Primary school.
+                    <strong>2007-2013:</strong> Primary school.
                 </li>
                 <li>
-                    <span class="font-semibold">2013-2015:</span> Lower secondary school.
+                    <strong>2013-2015:</strong> Lower secondary school.
                 </li>
                 <li>
-                    <span class="font-semibold">2015-2019:</span> Upper secondary school.
+                    <strong>2015-2019:</strong> Upper secondary school.
                 </li>
                 <li>
-                    <span class="font-semibold">2019-present:</span> Higher eduction, university.
+                    <strong>2019-present:</strong> Higher eduction, university.
                 </li>
             </ul>
         </section>
@@ -82,12 +87,90 @@
             <h2>
                 # Skills & expertise
             </h2>
+            <p>
+                I have been programming for 7 years now and consider myself experienced in many different programming languages. Web is what
+                interests me the most and I have been doing fullstack work for some time now, working on both the frontend and backend of
+                applications I make.
+            </p>
+            <h3>
+                # Backend
+            </h3>
+            <p>
+                See technologies that I am experienced in concerning backend development...
+            </p>
+            <ul>
+                <li>
+                    <strong>Databases</strong>
+                    <ul>
+                        <li>MySQL and other relational databases</li>
+                        <li>MongoDB</li>
+                    </ul>
+                </li>
+                <li>
+                    <strong>PHP</strong>
+                    <ul>
+                        <li>Laravel</li>
+                    </ul>
+                </li>
+                <li>
+                    <strong>JavaScript / TypeScript</strong>
+                    <ul>
+                        <li>ExpressJS</li>
+                        <li>NestJS</li>
+                    </ul>
+                </li>
+                <li>
+                    <strong>Python</strong>
+                    <ul>
+                        <li>Flask</li>
+                        <li>FastAPI</li>
+                    </ul>
+                </li>
+                <li>
+                    <strong>Java / Kootlin</strong>
+                    <ul>
+                        <li>Spring</li>
+                    </ul>
+                </li>
+            </ul>
+            <h3>
+                # Frontend
+            </h3>
+            <p>
+                See technologies that I am experienced in concerning frontend development...
+            </p>
+            <ul>
+                <li>
+                    <strong>HTML</strong>
+                </li>
+                <li>
+                    <strong>CSS</strong>
+                    <ul>
+                        <li>Preprocessors (SASS, PostCSS)</li>
+                        <li>Tailwindcss</li>
+                        <li>Bootstrap 4/5</li>
+                        <li>Bulma</li>
+                    </ul>
+                </li>
+                <li>
+                    <strong>JavaScript / TypeScript</strong>
+                    <ul>
+                        <li>Vue</li>
+                        <li>EmberJS</li>
+                    </ul>
+                </li>
+            </ul>
         </section>
         <hr>
         <section>
             <h2>
                 # Honors & Awards
             </h2>
+            <ul>
+                <li>
+                    Completed <a href="https://hacktoberfestchecker.jenko.me/user/ExpDev07">Hacktoberfest for 2020</a> by contributing 5 pull requests to open source software during October of that year.
+                </li>
+            </ul>
         </section>
         <hr>
         <section>
@@ -95,7 +178,7 @@
                 # Support me
             </h2>
             <p>
-                Like my work and want to contribute financially? Consider chipping in.
+                Like my open source work and want to contribute financially? Consider chipping in.
             </p>
             <ko-fi-button
                 username="expdev"
