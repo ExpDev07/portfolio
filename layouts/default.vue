@@ -1,7 +1,7 @@
 <template>
-    <div class="max-w-6xl mx-auto px-5 py-16 bg-white text-black">
+    <div class="bg-white text-black">
         <!-- Header -->
-        <header class="flex items-center justify-between">
+        <header class="max-w-6xl mx-auto px-5 py-16 flex items-center justify-between">
             <!-- Logo -->
             <NuxtLink class="pb-4 text-4xl font-mono font-semibold inline-block border-b-4 border-gray-200 hover:border-green-400" to="/">
                 @ExpDev07
@@ -23,14 +23,16 @@
             </nav>
         </header>
         <!-- Content -->
-        <main class="my-12">
+        <main class="max-w-6xl mx-auto px-5 py-12 my-12">
             <Nuxt />
         </main>
         <!-- Footer -->
-        <footer>
-            <p>
-                &COPY; 2020
-            </p>
+        <footer class="bg-black text-white">
+            <div class="max-w-6xl mx-auto px-5 py-5">
+                <p class="text-center text-lg">
+                    Laget med <font-awesome-icon class="mx-1 text-red-400 hover:text-red-500" icon="heart" /> av Marius
+                </p>
+            </div>
         </footer>
     </div>
 </template>

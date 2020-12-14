@@ -1,5 +1,5 @@
 <template>
-    <div class="prose prose-lg xl:prose-xl">
+    <div class="prose prose-lg xl:prose-xl -mt-36">
         <section>
             <h2>
                 # This is me
