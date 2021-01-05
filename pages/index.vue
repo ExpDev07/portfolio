@@ -127,7 +127,7 @@
                     </ul>
                 </li>
                 <li>
-                    <strong>Java / Kootlin</strong>
+                    <strong>Java / Kotlin</strong>
                     <ul>
                         <li>Spring</li>
                     </ul>
