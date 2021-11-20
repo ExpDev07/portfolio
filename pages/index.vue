@@ -208,13 +208,13 @@ export default {
                     id: 1,
                     full_name: 'ExpDev07/coronavirus-tracker-api',
                     html_url: 'https://github.com/' + 'ExpDev07/coronavirus-tracker-api',
-                    stargazers_count: '1,5k'
+                    stargazers_count: '1,6k'
                 },
                 {
                     id: 2,
                     full_name: 'ExpDev07/laravel-cashier-stripe-connect',
                     html_url: 'https://github.com/' + 'ExpDev07/laravel-cashier-stripe-connect',
-                    stargazers_count: '3'
+                    stargazers_count: '26'
                 },
                 {
                     id: 3,
@@ -226,7 +226,7 @@ export default {
                     id: 4,
                     full_name: 'ExpDev07/legacy-rp-admin-v3',
                     html_url: 'https://github.com/' + 'ExpDev07/legacy-rp-admin-v3',
-                    stargazers_count: '18'
+                    stargazers_count: '26'
                 }
             ]
         }
