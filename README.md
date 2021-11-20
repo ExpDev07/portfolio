@@ -1,5 +1,7 @@
 # expdev07
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8f51144c-ef40-44d2-b6d4-f81aa13adeb4/deploy-status)](https://app.netlify.com/sites/expdev07/deploys)
+
 ## Build Setup
 
 ```bash
