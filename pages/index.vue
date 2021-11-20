@@ -30,11 +30,14 @@
         <hr>
         <section>
             <h2>
-                # Work experience
+                # Professional experience
             </h2>
             <ul>
                 <li>
-                    Freelancing and completing small to medium projects for multiple clients.
+                    <strong>2016-2021:</strong> Freelancing and completing small to medium projects for multiple clients.
+                </li>
+                <li>
+                    <strong>2021-2022:</strong> Working at Techweb as a Fullstack Engineer.
                 </li>
             </ul>
         </section>
@@ -104,6 +107,13 @@
                     <ul>
                         <li>MySQL and other relational databases</li>
                         <li>MongoDB</li>
+                    </ul>
+                </li>
+                <li>
+                    <strong>CMS</strong>
+                    <ul>
+                        <li>Hubspot</li>
+                        <li>Wordpress</li>
                     </ul>
                 </li>
                 <li>
