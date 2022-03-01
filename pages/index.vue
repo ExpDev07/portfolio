@@ -37,7 +37,7 @@
                     <strong>2016-2021:</strong> Freelancing and completing small to medium projects for multiple clients.
                 </li>
                 <li>
-                    <strong>2021-2022:</strong> Working at Techweb as a Fullstack Engineer.
+                    <strong>2021-present:</strong> Working at Techweb as a Fullstack Engineer.
                 </li>
             </ul>
         </section>
