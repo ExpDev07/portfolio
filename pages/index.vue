@@ -6,7 +6,7 @@
             </h2>
             <p>
                 Hi! My name is Marius. I go by the pseudonym ExpDev07 (or sometimes just ExpDev), which by you will find my various
-                social profiles and <a href="https://github.com/ExpDev07">GitHub profile</a> under. I'm currently 20 years of age and
+                social profiles and <a href="https://github.com/ExpDev07">GitHub profile</a> under. I'm currently 21 years of age and
                 attending university for a general bachelor in software development.
             </p>
             <p>
